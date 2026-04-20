@@ -57,14 +57,14 @@ const en: Translations = {
   hero: {
     greeting: 'Hello, I\'m',
     name: 'Paula',
-    title: 'UX Designer',
+    title: 'UX Designerin',
     subtitle: 'I craft intuitive digital experiences that bridge the gap between user needs and business goals. With a human-centered approach, I transform complex problems into elegant, accessible solutions.',
     cta: 'View My Work',
   },
   about: {
     sectionTitle: 'About Me',
     description: [
-      'I\'m a passionate UX Designer with a keen eye for detail and a deep understanding of user behavior. My design philosophy centers around empathy, research, and iterative thinking.',
+      'I\'m a passionate UX Designerin with a keen eye for detail and a deep understanding of user behavior. My design philosophy centers around empathy, research, and iterative thinking.',
       'With experience across various industries, I bring a versatile skill set that combines strategic thinking with hands-on design execution. I believe great design is invisible — it just works.',
       'When I\'m not designing, you\'ll find me exploring new design trends, attending UX meetups, or sketching ideas in my notebook.',
     ],
